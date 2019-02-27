@@ -1196,55 +1196,6 @@ body {
 .cid-rdQLYZnEDh .mbr-text {
   text-align: left;
 }
-.cid-reDdKSyTTU {
-  padding-top: 90px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-reDdKSyTTU .card {
-  display: flex;
-  position: relative;
-  -webkit-justify-content: center;
-  justify-content: center;
-}
-.cid-reDdKSyTTU .card .card-wrapper {
-  background: #ffffff;
-  height: 1%;
-}
-.cid-reDdKSyTTU .card .card-wrapper .card-img {
-  position: relative;
-  overflow: hidden;
-  border-radius: 0;
-  z-index: 1;
-}
-.cid-reDdKSyTTU .card .card-wrapper .card-img img {
-  transition: all .5s;
-}
-.cid-reDdKSyTTU .card .card-wrapper .card-img .img-text {
-  position: absolute;
-  padding: .6rem;
-  top: 1.5rem;
-  left: 1.5rem;
-  z-index: 1;
-  border-radius: 100px;
-  background-color: #ca4336;
-}
-.cid-reDdKSyTTU .card .card-wrapper .card-img .img-text span {
-  display: block;
-}
-.cid-reDdKSyTTU .card .card-wrapper .card-box {
-  padding: 1.5rem;
-}
-.cid-reDdKSyTTU .mbr-card-text {
-  margin: 0;
-}
-.cid-reDdKSyTTU .mbr-section-title {
-  text-align: center;
-  color: #465052;
-}
-.cid-reDdKSyTTU .mbr-section-title B {
-  color: #1799cd;
-}
 .cid-rdQKCo5oVt {
   padding-top: 90px;
   padding-bottom: 90px;
