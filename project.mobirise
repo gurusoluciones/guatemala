@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "guatemala-clone",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "commercem4",
       "title": "CommerceM4",
@@ -519,7 +519,7 @@
             }
           },
           "_name": "image2",
-          "_customHTML": "<section group=\"Images & Videos\" class=\"image2\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Pantala Completa\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Arriba\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Abajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth == false\">\n\n        <input type=\"range\" inline title=\"Anchura\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"89\" step=\"1\" condition=\"fullWidth == false\">\n\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth == false\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container-fluid':!fullWidth}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/client-manager-1600x900.jpg\" alt title>\n        </div>\n    </figure>\n</section>",
+          "_customHTML": "<section group=\"Images & Videos\" class=\"image2\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Pantala Completa\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Arriba\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Abajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth == false\">\n\n        <input type=\"range\" inline title=\"Anchura\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"89\" step=\"1\" condition=\"fullWidth == false\">\n\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth == false\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container-fluid':!fullWidth}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/client-manager-2-1600x900.jpg\" alt title>\n        </div>\n    </figure>\n</section>",
           "_cid": "rj0lJnvo5W",
           "_anchor": "image2-2s",
           "_protectedParams": [],
