@@ -825,17 +825,6 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.jq-selectbox li:hover,
-.jq-selectbox li.selected {
-  background-color: #5fbbed;
-  color: #000000;
-}
-.jq-selectbox .jq-selectbox__trigger-arrow {
-  border-top-color: contrast(currentColor, #000000, #ffffff, 30%);
-}
-.jq-selectbox:hover .jq-selectbox__trigger-arrow {
-  border-top-color: #5fbbed;
-}
 .cid-rdACRpehW8 .dropdown-item:before {
   font-family: MobiriseIcons !important;
   content: '\e966';
