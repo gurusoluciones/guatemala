@@ -450,8 +450,7 @@ animation: gradient-animation 4s infinite alternate;
     display: -webkit-flex; }
 @media (max-width: 767px) {
   .menu .navbar-collapse {
-    max-height: 60vh;
-    overflow-y: auto; } }
+    max-height: 60vh; } }
 @media (min-width: 768px) and (max-width: 991px) {
   .menu .navbar-toggleable-sm .navbar-nav {
     display: -webkit-box;
@@ -501,5 +500,23 @@ animation: gradient-animation 4s infinite alternate;
     max-width: 25%;
     padding-left: 0;
     padding-right: 0; } }
+.jq-selectbox__select {
+  padding: .5rem 0rem;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%; }
+
+.jq-selectbox__dropdown {
+  position: absolute;
+  top: 100% !important;
+  left: 0 !important;
+  width: 100% !important; }
+
+.jq-selectbox__trigger-arrow {
+  transform: translateY(-50%); }
+
+.jq-selectbox li {
+  padding: .5rem 0rem; }
 
 /*# sourceMappingURL=style.css.map */
