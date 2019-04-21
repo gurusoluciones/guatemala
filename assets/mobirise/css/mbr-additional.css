@@ -1762,6 +1762,52 @@ body {
 .cid-rmzdNWPA76 .mbr-section-title {
   text-align: center;
 }
+.cid-rojFWLwMeQ {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+}
+.cid-rojFWLwMeQ .card {
+  display: flex;
+  position: relative;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-rojFWLwMeQ .card .card-wrapper {
+  background: #ffffff;
+  height: 1%;
+}
+.cid-rojFWLwMeQ .card .card-wrapper .card-img {
+  position: relative;
+  overflow: hidden;
+  border-radius: 0;
+  z-index: 1;
+}
+.cid-rojFWLwMeQ .card .card-wrapper .card-img img {
+  transition: all .5s;
+}
+.cid-rojFWLwMeQ .card .card-wrapper .card-img .img-text {
+  position: absolute;
+  padding: .6rem;
+  top: 1.5rem;
+  left: 1.5rem;
+  z-index: 1;
+  border-radius: 100px;
+  background-color: #ca4336;
+}
+.cid-rojFWLwMeQ .card .card-wrapper .card-img .img-text span {
+  display: block;
+}
+.cid-rojFWLwMeQ .card .card-wrapper .card-box {
+  padding: 1.5rem;
+}
+.cid-rojFWLwMeQ .mbr-card-text {
+  margin: 0;
+}
+.cid-rojFWLwMeQ .mbr-section-title {
+  text-align: center;
+  color: #ffffff;
+}
 .cid-rdMCYKXl0g {
   padding-top: 60px;
   padding-bottom: 60px;
