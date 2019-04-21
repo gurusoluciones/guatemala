@@ -1635,36 +1635,6 @@ body {
     background: none;
   }
 }
-.cid-ro4AzHeoBr {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-ro4AzHeoBr .mbr-text,
-.cid-ro4AzHeoBr .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-ro4AzHeoBr .card-title {
-  color: #66458e;
-}
-.cid-ro4AzHeoBr .card .card-img span {
-  color: #66458e;
-  font-size: 60px;
-  background: linear-gradient(45deg, #66458e, #66458e);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-@media (max-width: 767px) {
-  .cid-ro4AzHeoBr .mbr-section-subtitle,
-  .cid-ro4AzHeoBr .mbr-section-title {
-    text-align: center !important;
-  }
-}
-@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
-  .cid-ro4AzHeoBr .card .card-img span {
-    background: none;
-  }
-}
 .cid-rmzdNaevsn {
   padding-top: 90px;
   padding-bottom: 0px;
