@@ -1,6 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
-@import url(https://fonts.googleapis.com/css?family=Cabin:400,400i,500,500i,600,600i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
 
 
 
@@ -23,11 +22,11 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Rubik', sans-serif;
   font-size: 3.2rem;
 }
 .display-2 {
-  font-family: 'Cabin', sans-serif;
+  font-family: 'Rubik', sans-serif;
   font-size: 2rem;
 }
 .display-4 {
@@ -35,7 +34,7 @@ body {
   font-size: 0.9rem;
 }
 .display-5 {
-  font-family: 'Cabin', sans-serif;
+  font-family: 'Rubik', sans-serif;
   font-size: 1.5rem;
 }
 .display-7 {
@@ -1765,7 +1764,7 @@ body {
 .cid-rojFWLwMeQ {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1282.jpg");
 }
 .cid-rojFWLwMeQ .card {
   display: flex;
